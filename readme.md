@@ -11,6 +11,6 @@ Repo to store useful snippets found along our development journey
 
 ##### Windows:
 
-* `git clone https://github.com/scottwarren/sublime-snippets.git C:\Users\brennann\AppData\Roaming\Sublime Text 3\Packages\User`
+* `git clone https://github.com/scottwarren/sublime-snippets.git C:\Users\<username>\AppData\Roaming\Sublime Text 3\Packages\User`
 * Restart Sublime
 
