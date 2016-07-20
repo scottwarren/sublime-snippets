@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+console.log('${1:data}: ');
+console.log($1);
+]]></content>
+	<!-- Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>cons</tabTrigger>
+	<!-- Set a scope to limit where the snippet will trigger -->
+	<scope>source.js, source.jsx</scope>
+</snippet>
