@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+@include apply-at-medium-size {
+  ${1:rules}
+}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>medium</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.scss</scope>
+</snippet>
